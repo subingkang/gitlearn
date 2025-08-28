@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# GitLearning
-=======
+测试
+
 # Modern v3 - OneNav 现代化主题
 
 一个基于 OneNav 导航系统的现代化主题，提供美观、响应式的网站导航界面。
@@ -372,4 +371,5 @@ const headerResizeObserver = new ResizeObserver(function(entries) {
 **如果这个主题对您有帮助，请给项目点个 ⭐ Star 支持一下！**
 
 有任何问题或建议，欢迎提 Issue 或联系作者。让我们一起让网站导航变得更美好！🚀
->>>>>>> 3796460 (首次通过git命令行提交)
+
+> > > > > > > 3796460 (首次通过git命令行提交)
