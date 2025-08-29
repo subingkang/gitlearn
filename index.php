@@ -1,6 +1,6 @@
 <?php
 /**
- * 测试
+ * 测试vscode拉取回本地
  * Modern主题 - 适配OneNav项目
  * 作者: subk
  * 版本: 1.0
